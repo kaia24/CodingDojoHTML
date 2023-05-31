@@ -1,0 +1,61 @@
+
+
+.navBox{
+padding:20px;
+display: flex;
+height:fit-content;
+width:auto;
+background-color:rgb(171, 170, 170);
+margin:30px;
+}
+.navBox #search{
+width: 200px;
+
+
+
+}
+.navBox #clicks{
+margin-left:500px;
+margin-top:-50px;
+}
+.navBox #login{
+margin-left:300px;
+background-color: blue;
+color:white;
+font-size: 20px;
+}
+.boxSide{
+    padding:50px;
+    float: right;
+    width: 400px;
+    height:350px;
+    background-color: gainsboro;
+    margin:30px;
+    font-size:20px;
+}
+.box1{
+    padding:50px;
+    font-size: 20px;
+    width: 600px;
+    height:350px;
+    background-color: gainsboro ;
+    margin:30px;
+    }
+.box2{
+    font-size:20px;
+    padding:50px;
+    width: 600px;
+    height:350px;
+    background-color: gainsboro ;
+    margin:30px;
+}
+#likes{
+    margin-top: 10px;
+    font-size: 20px;
+    background-color: yellow;
+}
+#addDef{
+    margin-top: 10px;
+    font-size: 20px;
+    background-color: green;
+}
