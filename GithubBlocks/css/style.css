@@ -1,0 +1,54 @@
+
+.heading{
+color: dimgray;
+font-size: 50px;
+text-align: center;
+font-weight: bold;
+}
+
+#box1{
+    
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: lightblue;
+width: 1700px;
+height: 400px;
+margin: 100px;
+
+
+}
+
+img{
+    
+    
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    float: right;
+    margin:10px;
+    margin-top: 15px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+#box2{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightcoral;
+    width: 1700px;
+    height: 400px;
+    margin: 100px;
+}
+  
+#box3{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgreen;
+    width: 1700px;
+    height: 400px;
+    margin: 100px;
+}
