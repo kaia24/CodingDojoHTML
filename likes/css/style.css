@@ -1,0 +1,58 @@
+
+
+.Network{
+padding:20px;
+display: flex;
+height:fit-content;
+width:auto;
+background-color:rgb(171, 170, 170);
+margin:30px;
+}
+
+
+
+
+
+
+.box1{
+    
+    font-size:20px;
+    padding:50px;
+    width: 300px;
+    height:400px;
+    background-color: grey ;
+    margin:30px;
+}
+.box2{
+    margin-left: 400px;
+    margin-top: 10px;
+    padding:20px;
+    width: 600px;
+    height:200px;
+    background-color: grey ;
+    
+    }
+    .box3{
+        margin-left: 400px;
+        margin-top: 10px;
+        padding:20px;
+        width: 600px;
+        height:200px;
+        background-color: grey ;
+        
+        }
+        .box4{
+            margin-left: 400px;
+            margin-top: 10px;
+            padding:20px;
+            width: 600px;
+            height:200px;
+            background-color: grey ;
+            
+            }
+#like{
+font-size: 30px;
+background-color: yellow;
+
+}
+
